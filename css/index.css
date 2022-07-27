@@ -2,8 +2,38 @@
     padding: 0%;
 margin: 0%;
 }
-
+body{
+    background: rgb(149,231,45);
+    background: linear-gradient(90deg, rgba(149,231,45,1) 38%, rgba(241,255,0,0.9808298319327731) 68%);
+}
 a.navbar-brand{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 15px;
 }
+.Souza{
+    display: flex;
+    position: relative;
+    left: 580px;
+    top: -20px;
+}
+.nomes{
+    position: absolute;
+    top: 189px;
+    left: 180px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 69px;
+   color:green;
+}
+.nomes1{
+    position: absolute;
+    top: 258px;
+    left: 180px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 69px;
+   background: rgb(149,231,45);
+    background:  linear-gradient(90deg,  rgb(42, 255, 42,0.5) 38%, rgba(241,255,0,0.9808298319327731) 68%);
+
+    color:white;
+}
+
+
