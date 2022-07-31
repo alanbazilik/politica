@@ -4,7 +4,8 @@ margin: 0%;
 }
 body{
     background: rgb(149,231,45);
-    background: linear-gradient(90deg, rgba(149,231,45,1) 38%, rgba(241,255,0,0.9808298319327731) 68%);
+    background: linear-gradient(90deg, rgba(149,231,45) 38%, rgba(241,255,0,0.9808298319327731) 68%);
+    
 }
 a.navbar-brand{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -15,6 +16,7 @@ a.navbar-brand{
     position: relative;
     left: 580px;
     top: -20px;
+  
 }
 .nomes{
     position: absolute;
